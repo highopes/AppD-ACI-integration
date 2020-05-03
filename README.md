@@ -21,7 +21,7 @@ The language of the tool is API and communicating with it through API is what we
 https://cisco.box.com/s/juitqwnl5rhl3qlqfegnypilb9w3wbcn
 
 
-##Use Case 2: Extract application structure layers for security microsegmentation or policy automation
+## Use Case 2: Extract application structure layers for security microsegmentation or policy automation
 
 See the script get-app-structure.py
 
